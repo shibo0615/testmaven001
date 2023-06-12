@@ -8,7 +8,7 @@
         <version>3.1.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.testmaven001</groupId>
+   <!-- <groupId>com.testmaven001</groupId>-->
     <artifactId>testmanve02</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>testmanve02</name>
