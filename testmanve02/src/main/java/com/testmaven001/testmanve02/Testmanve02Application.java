@@ -8,7 +8,7 @@ public class Testmanve02Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Testmanve02Application.class, args);
-        System.out.println("");
+        System.out.println("123");
     }
 
 }
