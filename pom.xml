@@ -8,11 +8,18 @@
         <version>3.1.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.testmaven001</groupId>
+
     <artifactId>testmaven001</artifactId>
+    <groupId>com.testmaven001</groupId>
     <version>0.0.1-SNAPSHOT</version>
     <name>testmaven001</name>
     <description>testmaven001</description>
+
+    <modules>
+        <module>testmaven01</module>
+        <module>testmanve02</module>
+    </modules>
+
     <properties>
         <java.version>1.8</java.version>
     </properties>
